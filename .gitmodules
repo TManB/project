@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/TManB/submodule.git
+[submodule "app/src/main/java/submodule"]
+	path = app/src/main/java/submodule
+	url = https://github.com/TManB/submodule.git
